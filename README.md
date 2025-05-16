@@ -6,8 +6,8 @@ Aplicación de tareas desarrollada con **Vue 3**, **Vite**, **TailwindCSS** y **
 
 Asegúrate de tener instalado lo siguiente:
 
-- **Node.js** `>=18`
-- **npm** `>=9`
+- **Node.js** `>=20.9`
+- **npm** `>=10.8`
 
 ## ⚙️ Instalación
 
