@@ -25,10 +25,10 @@ Sigue los siguientes pasos para levantar el entorno de desarrollo:
    cp .env.example .env
    ```
 
-3. En el archivo .env, agrega el access token asignado en la tarea con terminación ```977b3fcbb064179ecd```:
+3. En el archivo .env, agrega el Bearer token asignado en la tarea con terminación ```977b3fcbb064179ecd```:
 
     ```env
-   VITE_API_TOKEN=tu_token_asignado
+   VITE_API_TOKEN=token_asignado
    ```
    El archivo .env.example ya incluye la URL base, no es necesario modificarla:
     ```env
